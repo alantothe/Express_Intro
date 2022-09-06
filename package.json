@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alantothe/Express_Intro/issues"
   },
-  "homepage": "https://github.com/alantothe/Express_Intro#readme"
+  "homepage": "https://github.com/alantothe/Express_Intro#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
